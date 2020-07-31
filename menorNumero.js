@@ -6,7 +6,6 @@ ar[3] = 3;
 ar[4] = 1;
 
 
-
 var menorVela =  Number.MAX_VALUE //99999999
 var totaldeVelas = ar.length;
 
