@@ -16,9 +16,9 @@ for (var i = 0; i < numeroInputUser; i++) {          // linha 1
 console.log(resultado);
 
 
-/*for bidimensional
-debugar vai ajudar a entender
-primeiro ele vai incrementar todas as variaveis j , enquanto o i for zero, ate o j2
-dps vai incrementar i e ele será 1 e ira incrementar todos j no i1
-dps incrementa mais 1x o i para se tornar 2 e o j em tds posiçoes
-\n quebra a linha
+//for bidimensional
+//debugar vai ajudar a entender
+//primeiro ele vai incrementar todas as variaveis j , enquanto o i for zero, ate o j2
+//dps vai incrementar i e ele será 1 e ira incrementar todos j no i1
+//dps incrementa mais 1x o i para se tornar 2 e o j em tds posiçoes
+// "\n" quebra a linha*/
