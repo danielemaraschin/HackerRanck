@@ -1,4 +1,4 @@
-var numeroInputUser = 3;
+var numeroInputUser = 6;
 var numMaxDoX = numeroInputUser -1;
 var resultado = "";
 
@@ -7,10 +7,11 @@ for (var i = 0; i < numeroInputUser; i++) {          // linha 1
         if (j < numMaxDoX ) {    //4
             resultado = resultado + " ";
         } else {
-            resultado = resultado + "X";
+            resultado = resultado + "#";
         }
     }
     resultado = resultado + "\n";
+    numMaxDoX--;
 }
 
 console.log(resultado);
