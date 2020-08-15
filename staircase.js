@@ -1,4 +1,4 @@
-var numeroInputUser = 6;
+var numeroInputUser = 3 ;
 var numMaxDoX = numeroInputUser -1;
 var resultado = "";
 
