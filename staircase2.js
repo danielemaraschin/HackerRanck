@@ -1,10 +1,8 @@
-var numeroInputUser = 6;
+var numeroInputUser = 4;
     var numMaxDoX = numeroInputUser -1;
     var resultado = "";
 
 function staircase(n) {
-
-    
     
     for (var i = 0; i < numeroInputUser; i++) {          
         for (var j = 0; j < numeroInputUser; j++) {    
