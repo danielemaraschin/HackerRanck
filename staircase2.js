@@ -1,8 +1,10 @@
-function staircase(n) {
-
-    var numeroInputUser = 6;
+var numeroInputUser = 6;
     var numMaxDoX = numeroInputUser -1;
     var resultado = "";
+
+function staircase(n) {
+
+    
     
     for (var i = 0; i < numeroInputUser; i++) {          
         for (var j = 0; j < numeroInputUser; j++) {    
@@ -15,7 +17,7 @@ function staircase(n) {
         resultado = resultado + "\n";
         numMaxDoX--;
     }
+    return resultado
+}
+console.log(staircase());
     
-    console.log(resultado);
-    
-    }
